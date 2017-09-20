@@ -103,6 +103,7 @@
 					D39D6D611D92F4720043C1D8 = {
 						CreatedOnToolsVersion = 8.0;
 						DevelopmentTeam = 7J77685L3X;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 				};
